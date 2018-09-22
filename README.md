@@ -6,3 +6,5 @@ In this reprository i have only included some basic Machine Learning Algorithms 
 # 4. Random Forest
 # 5. PCA(Dimensionality reduction technique)
 
+For KNN i have used load digits datasets from sklearn and for every algorithm(KNN, K-Means, Decision Trees, Random Forest, PCA) in the files i also mentioned how to deal with it using SK-LEARN.
+For Decision Trees and PCA i have used the popular MNIST dataset
