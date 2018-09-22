@@ -9,6 +9,6 @@ In this reprository i have only included some basic Machine Learning Algorithms 
 # 7. Logistic Regression
 
 For KNN i have used load digits datasets from sklearn and for every algorithm(KNN, K-Means, Decision Trees, Random Forest, PCA) in the files i also mentioned how to deal with it using SK-LEARN.
-For Decision Trees and PCA i have used the popular MNIST dataset
+For Decision Trees i have used titanic dataset and for PCA the popular MNIST dataset
 And for Linear Regression and Logistic regression I also included code using sklearn
 For Linear Regression i have also used Genetic Algorithm
